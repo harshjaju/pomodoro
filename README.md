@@ -23,3 +23,6 @@ optional arguments:
 ```     
 
 It plays sound using pygame module, so that needs to be downloaded if you intend to use this. Or you could replace the code with some other sound player.
+
+## TODO
+- Replace the sleep with a multithread listener, that allows for pause functionality.
