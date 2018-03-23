@@ -1,5 +1,5 @@
 # pomodoro
-A pomodoro timer in your terminal
+A pomodoro timer in your terminal - Harsh trial 1
 
 Call from anywhere in terminal by linking to path
 
